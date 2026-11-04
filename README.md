@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E65C00,100:F9D423&height=220&section=header&text=Ivan%20Leon%20Capote&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" alt="Banner Animado Naranja" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:4f46e5&height=210&section=header&text=Iv%C3%A1n%20Le%C3%B3n%20Capote&fontSize=48&fontColor=f1f5f9&animation=fadeIn&fontAlignY=36&desc=Development%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI&descSize=18&descAlignY=56&descAlign=50" alt="Header" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=600&color=818CF8&center=true&vCenter=true&width=520&lines=Development+Engineer;Frontend+Developer+%C2%B7+Vue.js+%2B+TypeScript;WebSockets+%26+APIs+REST+Dev;" alt="Typing" />
+</div>
 
   <br/>
   
