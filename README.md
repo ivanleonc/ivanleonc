@@ -1,164 +1,73 @@
-<!--
-  IVAN LEON CAPOTE
-  GitHub Profile README
-  Design: Minimal / Full Stack Engineer
--->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=¡Hola!%20Soy%20Ivan%20Leon%20Capote&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&descAlign=50" alt="Banner Animado" />
+</div>
 
-# Ivan Leon Capote
-
-### Software Engineer · Full Stack Developer
-
-Building scalable software, meaningful digital experiences and solutions that make an impact.
+<h3 align="center">Transformando ideas en experiencias web increíbles ✨</h3>
 
 <br/>
 
-<a href="https://github.com/ivanleonc">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/ivanleoncapote/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/ivanleonc_">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0B&height=2&section=header" width="100%"/>
-
+<div align="center">
+  <a href="https://linkedin.com/in/ivanleoncapote" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ivanleonc_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://instagram.com/ivanleonc_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
-## About Me
+<br/>
 
-I'm a Software Engineer from **Colombia 🇨🇴**, passionate about designing and developing software solutions that combine solid architecture, performance and great user experiences.
+## 👨‍💻 Sobre mí
 
-My work focuses on building modern web applications, developing scalable frontend architectures and integrating backend services to create reliable and maintainable products.
-
-I believe great software comes from understanding the problem, choosing the right architecture and paying attention to every detail.
-
-- 💻 Full Stack Development & Software Engineering.
-- 🏗️ Modular architecture, clean code and scalable applications.
-- ⚡ Modern frontend development with Vue.js and JavaScript.
-- 🔌 Backend development, APIs and database integration.
-- 🎨 UI/UX, usability and performance optimization.
-- 🌱 Continuous learning and exploring emerging technologies.
-
-## Technology Stack
-
-Technologies and tools I work with:
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,vite&theme=light" />
-</p>
-
-- Vue.js
-- JavaScript
-- HTML5 & CSS3
-- Vite
-- Pinia
-
-</td>
-<td width="50%" valign="top">
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs&theme=light" />
-</p>
-
-- PHP
-- MySQL
-- Node.js
-- REST APIs
-- Backend integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
-</p>
-
-- Git & GitHub
-- VS Code
-- Postman
-- Development workflows
-
-</td>
-<td width="50%" valign="top">
-
-### Engineering Focus
-
-- Software Architecture
-- Modular Development
-- Performance Optimization
-- Scalability
-- UI/UX Engineering
-
-</td>
-</tr>
-</table>
-
-## Featured Projects
-
-### [Kaleo](https://github.com/ivanleonc/kaleo)
-
-**Organizational Management SaaS**
-
-A platform designed to simplify organizational management through centralized administration of companies, locations, members, roles and permissions, with a complete audit trail.
-
-`SaaS` `Software Architecture` `TypeScript`
+- 🎓 Estudiante de **Ingeniería en Computación** apasionado por el desarrollo de software.
+- 💻 Enfocado en el ecosistema **Frontend**, creando interfaces escalables e intuitivas.
+- 🚀 Trabajando actualmente en **Kaleo**, un SaaS de gestión organizacional impulsado por TypeScript.
+- 📍 Basado en **Piendamó, Cauca, Colombia** 🇨🇴.
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías para mejorar la experiencia de usuario.
 
 ---
 
-## GitHub Statistics
+## 🛠️ Tech Stack
+
+> *Nota: Modifica esta sección con las herramientas que realmente utilices.*
+
+**Frontend & Lenguajes:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" alt="TailwindCSS" title="Tailwind CSS" />
+</p>
+
+**Herramientas & Control de Versiones:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanleonc&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleonc&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanleonc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Ivan" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanleonc&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" width="48%" />
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ivanleonc&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleonc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
 </div>
 
-## Let's Connect
-
-I'm always interested in connecting with people who enjoy building great software, sharing knowledge and exploring new ideas.
-
+---
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ivanleoncapote/">
-  **LinkedIn**
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/ivanleonc">
-  **GitHub**
-</a>
-&nbsp; · &nbsp;
-<a href="https://x.com/ivanleonc_">
-  **X / Twitter**
-</a>
-
-<br/><br/>
-
-*Driven by curiosity. Built with purpose.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=100&section=footer" width="100%"/>
-
+  <i>¡Gracias por visitar mi perfil! Siéntete libre de revisar mis repositorios o contactarme. ✌️</i>
 </div>
